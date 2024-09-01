@@ -1,0 +1,4 @@
+*.pickle filter=lfs diff=lfs merge=lfs -text
+*.pk1 filter=lfs diff=lfs merge=lfs -text
+elmoformanylangs/168/encoder.pkl filter=lfs diff=lfs merge=lfs -text
+elmoformanylangs/168/token_embedder.pkl filter=lfs diff=lfs merge=lfs -text
