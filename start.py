@@ -8,6 +8,7 @@ from sklearn.preprocessing import LabelEncoder
 from transformers import BertTokenizer, BertModel
 import torch
 import matplotlib.pyplot as plt
+from sklearn_extra.cluster import KMedoids
 
 # Coocorrencia necessário para conseguir fazer o Ahmad
 
